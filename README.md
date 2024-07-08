@@ -1,0 +1,1 @@
+This project is my first Ren'py visual novel, about characters I designed in 2018. One has diabetes and the other is the sidekick. The goal is many adventures in their teens (and maybe other time periods too), at times sharing a diabetic (type 1) perspective.
